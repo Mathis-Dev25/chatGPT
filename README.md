@@ -1,5 +1,8 @@
 # Nexus Studio
 
+**Nouveau : [cours d’IA en Python](IA/README.md)** — PowerPoint, PDF, exercices
+corrigés et code d’un réseau de neurones avec interface graphique dans le dossier `IA`.
+
 Un atelier graphique Python complet, en français, construit avec **PySide6 / Qt 6** : cinq espaces de travail, une interface sombre, des graphiques vectoriels et des données conservées localement.
 
 ![Nexus Studio](docs/dashboard.png)
